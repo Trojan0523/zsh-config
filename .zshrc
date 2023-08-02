@@ -106,6 +106,7 @@ alias ns="npm run start:dev"
 alias gc="git checkout"
 alias pns="pnpm run start"
 alias zeus="z zeus && code ."
+alias c="code ."
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export PATH="/opt/homebrew/opt/redis@6.2/bin:$PATH"
